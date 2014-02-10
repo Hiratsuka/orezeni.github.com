@@ -54,16 +54,16 @@ OpenSpending.Styles.Cofog = {
   '9-1': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
   '9-2': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#C75746' },
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-3': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-4': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-5': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-6': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
+  '10-1': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-3': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-4': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-5': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-6': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
   '11': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
   '11-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' }
   '12': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#790586' },
-  '12-1': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#790586' }
+  '12-1': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#790586' },
   '13': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
   '13-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586'}, 
 };
